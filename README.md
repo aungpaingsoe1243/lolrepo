@@ -1,3 +1,3 @@
 #lolheading
 
-Some description.
+Some description!
